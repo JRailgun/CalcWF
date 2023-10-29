@@ -1,0 +1,11 @@
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\bin\Debug\ТП1_(2).exe.config
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\bin\Debug\ТП1_(2).exe
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\bin\Debug\ТП1_(2).pdb
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1__2_.Properties.Resources.resources
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).csproj.GenerateResource.cache
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).exe
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).pdb
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1__2_.Form1.resources
+C:\Users\yaros\source\repos\ТП1_(2)\ТП1_(2)\obj\Debug\ТП1_(2).csproj.SuggestedBindingRedirects.cache
